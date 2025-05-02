@@ -41,7 +41,6 @@ body{
 }
 .footer{
     margin: 10px;
-    display: flexbox;
 }
 .interacciones{
     display: flex;
